@@ -1,0 +1,48 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build output
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+*.exe
+*.dll
+*.pdb
+*.cache
+
+# NuGet restore output
+packages/
+*.nupkg
+
+# Local databases and database editor state
+*.db
+*.sqlite
+*.sqlite3
+*.sqbpro
+
+# Python/cache artifacts
+__pycache__/
+*.pyc
+
+# Local environment/config
+.env
+.env.*
+!.env.example
+
+# Legacy raw export kept locally but not published
+crimeGuadeIteration1-main/
+.git-original-backup/
+
+# Duplicate original report path; curated copy lives in reports/
+crime_guard_project_documentation.pdf
+
+# OS metadata
+.DS_Store
+Thumbs.db
