@@ -6,8 +6,6 @@ CrimeGuard is a desktop application designed to help law-enforcement and prison-
 
 The project was developed as a Software Engineering course project in 2024, with documented user stories, sprint planning, architecture diagrams, Scrum board evidence, implementation screenshots, non-functional requirements, testing notes, and a final project report.
 
-![CrimeGuard prison management dashboard](assets/screenshots/prison-management-dashboard.png)
-
 ## Product Vision
 
 CrimeGuard was designed around a simple idea: crime and prison-management data should not sit in scattered files or isolated registers. The application brings crime records, FIR handling, prisoner data, visitor scheduling, cell assignment, staff assignment, activity management, medical reports, belongings tracking, and analytics into one structured desktop system.
